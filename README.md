@@ -41,7 +41,6 @@ I don't post tutorials. I ship narrow tools that close real gaps, and I report t
 ## Find me
 
 - LinkedIn: [in/thanifr](https://www.linkedin.com/in/thanifr)
-- Personal site: [patronofalltrades.github.io](https://patronofalltrades.github.io)
 - Blog: [hanif.info](https://hanif.info)
 
 Open to deployment strategy, product management and GTM roles. The best way to reach me is on LinkedIn.
