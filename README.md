@@ -1,18 +1,18 @@
 # Hi, I'm Hanif
 
-I work where the technical and the commercial meet. I build small AI tools, then write them up clearly enough that a non-engineer can act on them.
+> **Metallurgical engineer turned founder.** I scaled a deep-tech company to $1M+ revenue and $115K revenue per employee, then moved into product and AI at Grab. I'm an operator who turns frontier technology into adoption: the pricing, the rollout, the go-to-market.
 
-**Product Manager @ Grab.** IESE MBA 2027 with an exchange semester at UC Berkeley Haas. Previously a founder (ASP-tech).
+**Product Manager @ Grab.** IESE MBA 2027 with an exchange semester at UC Berkeley Haas. Previously founder and Chief Business Officer of Asperio (PT. Artifa Sukses Persada), an industrial tech startup I grew to $1M+.
 
 **I'm looking for deployment strategy, product management, and go-to-market roles** at companies shipping AI products, where technical depth and clear writing both matter.
 
 ---
 
-## What you'll find here
+## What this profile is
 
-I don't post tutorials. I ship narrow tools that close real gaps, and I report the results honestly, including what didn't work.
+The repos here are that thesis in miniature. I take a piece of technology that does not have a market for it yet, make it usable, and then write it up honestly, including what did not work.
 
-### Technical building
+### Building with AI, in the open
 
 - **[bcourses-mcp](https://github.com/patronofalltrades/bcourses-mcp)** — a student-scoped MCP server for UC Berkeley's Canvas. A strict security model (token in the macOS Keychain, no write tools that touch instructor data) and six weeks of real Canvas quirks documented. Node, TypeScript.
 - **[PacMan-Fundamentals-of-Agentic-AI](https://github.com/patronofalltrades/PacMan-Fundamentals-of-Agentic-AI)** — a Deep Q-Network that learned Ms. Pac-Man: mean score **492 to 2578** across five fixed evaluation games. Every number on the page traces to a file in `results/`. Python, PyTorch.
