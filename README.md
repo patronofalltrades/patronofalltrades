@@ -2,7 +2,7 @@
 
 > **Metallurgical engineer turned founder.** I scaled a deep-tech company to $1M+ revenue and $115K revenue per employee, then moved into product and AI at Grab. I'm an operator who turns frontier technology into adoption: the pricing, the rollout, the go-to-market.
 
-**Product Manager @ Grab.** IESE MBA 2027 with an exchange semester at UC Berkeley Haas. Previously founder and Chief Business Officer of Asperio (PT. Artifa Sukses Persada), an industrial tech startup I grew to $1M+.
+IESE MBA 2027 with an exchange semester at UC Berkeley Haas. Previously Product Manager @ Grab, and before that founder and Chief Business Officer of Asperio (PT. Artifa Sukses Persada), an industrial tech startup I grew to $1M+.
 
 **I'm looking for deployment strategy, product management, and go-to-market roles** at companies shipping AI products, where technical depth and clear writing both matter.
 
